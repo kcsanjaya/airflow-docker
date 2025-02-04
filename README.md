@@ -1,4 +1,4 @@
-# Airflow UI
+# Airflow docker setup
 These steps are copied from [airflow documentation](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html). I have just listed out the ones that are needed to quickly setup the Airflow in docker.
 I hope these steps are more clear to follow.
   1. Create a folder named `Airflow` in your computer
